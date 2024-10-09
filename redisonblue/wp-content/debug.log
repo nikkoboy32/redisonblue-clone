@@ -1,0 +1,656 @@
+[24-Sep-2024 13:02:53 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_script" in C:\xampp\htdocs\redisonblue\wp-content\themes\redisonblue\functions.php on line 26
+[24-Sep-2024 13:02:54 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_script" in C:\xampp\htdocs\redisonblue\wp-content\themes\redisonblue\functions.php on line 26
+[24-Sep-2024 13:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_includes() in C:\xampp\htdocs\redisonblue\wp-content\themes\redisonblue\index.php:2
+Stack trace:
+#0 C:\xampp\htdocs\redisonblue\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\redisonblue\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\redisonblue\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\redisonblue\wp-content\themes\redisonblue\index.php on line 2
+[24-Sep-2024 13:33:53 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[24-Sep-2024 13:42:08 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[24-Sep-2024 13:48:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:48:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:49:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:54 UTC] PHP Deprecated:  Function wp_update_https_detection_errors is <strong>deprecated</strong> since version 6.4.0 with no alternative available. in C:\xampp\htdocs\redisonblue\wp-includes\functions.php on line 6085
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:50:56 UTC] Automatic updates starting...
+[24-Sep-2024 13:50:56 UTC]   Automatic plugin updates starting...
+[24-Sep-2024 13:50:56 UTC]   Automatic plugin updates complete.
+[24-Sep-2024 13:50:56 UTC]   Automatic theme updates starting...
+[24-Sep-2024 13:50:56 UTC]   Automatic theme updates complete.
+[24-Sep-2024 13:50:56 UTC] Automatic updates complete.
+[24-Sep-2024 13:51:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:47 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:47 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:48 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:52:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:44 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:53:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:54:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:54:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:56:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:58:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-admin-bar.php on line 63
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[24-Sep-2024 13:59:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\redisonblue\wp-includes\admin-bar.php on line 1292
+[25-Sep-2024 12:28:09 UTC] Automatic updates starting...
+[25-Sep-2024 12:28:11 UTC]   Automatic plugin updates starting...
+[25-Sep-2024 12:28:11 UTC]   Automatic plugin updates complete.
+[25-Sep-2024 12:28:13 UTC]   Automatic theme updates starting...
+[25-Sep-2024 12:28:13 UTC]   Automatic theme updates complete.
+[25-Sep-2024 12:28:13 UTC] Automatic updates complete.
+[25-Sep-2024 13:05:39 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[25-Sep-2024 13:51:31 UTC] Automatic updates starting...
+[25-Sep-2024 13:51:31 UTC]   Automatic plugin updates starting...
+[25-Sep-2024 13:51:31 UTC]   Automatic plugin updates complete.
+[25-Sep-2024 13:51:31 UTC]   Automatic theme updates starting...
+[25-Sep-2024 13:51:31 UTC]   Automatic theme updates complete.
+[25-Sep-2024 13:51:31 UTC] Automatic updates complete.
+[26-Sep-2024 02:48:49 UTC] Automatic updates starting...
+[26-Sep-2024 02:48:50 UTC]   Automatic plugin updates starting...
+[26-Sep-2024 02:48:50 UTC]   Automatic plugin updates complete.
+[26-Sep-2024 02:48:50 UTC]   Automatic theme updates starting...
+[26-Sep-2024 02:48:50 UTC]   Automatic theme updates complete.
+[26-Sep-2024 02:48:50 UTC] Automatic updates complete.
+[26-Sep-2024 02:53:51 UTC] PHP Notice:  Trying to get property 'title' of non-object in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[26-Sep-2024 02:59:40 UTC] PHP Notice:  Trying to get property 'title' of non-object in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[26-Sep-2024 03:02:37 UTC] PHP Notice:  Trying to get property 'title' of non-object in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[26-Sep-2024 03:04:40 UTC] PHP Notice:  Trying to get property 'title' of non-object in C:\xampp\htdocs\redisonblue\wp-includes\class-wp-customize-widgets.php on line 905
+[26-Sep-2024 09:38:05 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_redisonblueoptions` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-4c78c400e8486d5e14628b094bf2c149' made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[26-Sep-2024 13:37:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:37:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:39:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[26-Sep-2024 13:55:48 UTC] Automatic updates starting...
+[26-Sep-2024 13:55:49 UTC]   Automatic plugin updates starting...
+[26-Sep-2024 13:55:49 UTC]   Automatic plugin updates complete.
+[26-Sep-2024 13:55:50 UTC]   Automatic theme updates starting...
+[26-Sep-2024 13:55:50 UTC]   Automatic theme updates complete.
+[26-Sep-2024 13:55:50 UTC] Automatic updates complete.
+[28-Sep-2024 05:35:17 UTC] Automatic updates starting...
+[28-Sep-2024 05:35:18 UTC]   Automatic plugin updates starting...
+[28-Sep-2024 05:35:18 UTC]   Automatic plugin updates complete.
+[28-Sep-2024 05:35:19 UTC]   Automatic theme updates starting...
+[28-Sep-2024 05:35:19 UTC]   Automatic theme updates complete.
+[28-Sep-2024 05:35:19 UTC] Automatic updates complete.
+[29-Sep-2024 10:59:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[29-Sep-2024 10:59:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[29-Sep-2024 10:59:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[29-Sep-2024 10:59:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\redisonblue\wp-includes\class-wpdb.php on line 1982
+[30-Sep-2024 01:44:35 UTC] Automatic updates starting...
+[30-Sep-2024 01:44:36 UTC]   Automatic plugin updates starting...
+[30-Sep-2024 01:44:36 UTC]   Automatic plugin updates complete.
+[30-Sep-2024 01:44:37 UTC]   Automatic theme updates starting...
+[30-Sep-2024 01:44:37 UTC]   Automatic theme updates complete.
+[30-Sep-2024 01:44:37 UTC] Automatic updates complete.
+[30-Sep-2024 05:24:00 UTC] Automatic updates starting...
+[30-Sep-2024 05:24:01 UTC]   Automatic plugin updates starting...
+[30-Sep-2024 05:24:01 UTC]   Automatic plugin updates complete.
+[30-Sep-2024 05:24:02 UTC]   Automatic theme updates starting...
+[30-Sep-2024 05:24:02 UTC]   Automatic theme updates complete.
+[30-Sep-2024 05:24:02 UTC] Automatic updates complete.
+[30-Sep-2024 13:56:34 UTC] Automatic updates starting...
+[30-Sep-2024 13:56:35 UTC]   Automatic plugin updates starting...
+[30-Sep-2024 13:56:35 UTC]   Automatic plugin updates complete.
+[30-Sep-2024 13:56:35 UTC]   Automatic theme updates starting...
+[30-Sep-2024 13:56:35 UTC]   Automatic theme updates complete.
+[30-Sep-2024 13:56:35 UTC] Automatic updates complete.
+[01-Oct-2024 10:22:45 UTC] Automatic updates starting...
+[01-Oct-2024 10:22:45 UTC]   Automatic plugin updates starting...
+[01-Oct-2024 10:22:45 UTC]   Automatic plugin updates complete.
+[01-Oct-2024 10:22:46 UTC]   Automatic theme updates starting...
+[01-Oct-2024 10:22:46 UTC]   Automatic theme updates complete.
+[01-Oct-2024 10:22:46 UTC] Automatic updates complete.
+[01-Oct-2024 13:50:49 UTC] Automatic updates starting...
+[01-Oct-2024 13:50:50 UTC]   Automatic plugin updates starting...
+[01-Oct-2024 13:50:50 UTC]   Automatic plugin updates complete.
+[01-Oct-2024 13:50:50 UTC]   Automatic theme updates starting...
+[01-Oct-2024 13:50:50 UTC]   Automatic theme updates complete.
+[01-Oct-2024 13:50:50 UTC] Automatic updates complete.
+[03-Oct-2024 03:25:24 UTC] Automatic updates starting...
+[03-Oct-2024 03:25:25 UTC]   Automatic plugin updates starting...
+[03-Oct-2024 03:25:25 UTC]   Automatic plugin updates complete.
+[03-Oct-2024 03:25:26 UTC]   Automatic theme updates starting...
+[03-Oct-2024 03:25:26 UTC]   Automatic theme updates complete.
+[03-Oct-2024 03:25:26 UTC] Automatic updates complete.
+[09-Oct-2024 12:16:02 UTC] Automatic updates starting...
+[09-Oct-2024 12:16:03 UTC]   Automatic plugin updates starting...
+[09-Oct-2024 12:16:03 UTC]   Automatic plugin updates complete.
+[09-Oct-2024 12:16:04 UTC]   Automatic theme updates starting...
+[09-Oct-2024 12:16:04 UTC]   Automatic theme updates complete.
+[09-Oct-2024 12:16:04 UTC] Automatic updates complete.
